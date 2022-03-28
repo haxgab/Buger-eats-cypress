@@ -1,0 +1,52 @@
+{
+    "signup":{
+        "name": "gabriel richter",
+        "cpf": "98765432100",
+        "email": "gabriel@gmail.com",
+        "whatsapp": "11987654321",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+       "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "gabriel e richter",
+        "cpf": "987654321aa",
+        "email": "gabriel@gmail.com",
+        "whatsapp": "11987654321",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+       "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv":{
+        "name": "gabriel richter",
+        "cpf": "98765432100",
+        "email": "gabriel.com.br",
+        "whatsapp": "11987654321",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+       "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
